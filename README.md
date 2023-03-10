@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1>Hi there 👋</h1>
+<h2>About me</h2>
+<p>I'm a second year CS student @ York University</p>
 
-<!--
-**tranguv/tranguv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Programming languages</h2>
+<div display="grid"><a href="https://www.flaticon.com/free-icons/html-5" title="html 5 icons"></a></div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Software Tools</h2>
+<div display="grid'><a href="https://www.linkedin.com/in/trang-vu-a44713210/"><img src="./resoucre/linkedln.png"></a></div>
+
+<h2>Let's get in touch</h2> 
+
+
+
