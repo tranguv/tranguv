@@ -17,5 +17,8 @@
 <div display="grid'><a href="https://www.linkedin.com/in/trang-vu-a44713210/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedln
  width="40" height="40"></a></div>
 
+<div>
+  ![](https://komarev.com/ghpvc/?username=tranguv&color=brightgreen)
+</div>
 
 
