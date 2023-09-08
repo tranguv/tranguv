@@ -22,9 +22,14 @@
 ![](https://komarev.com/ghpvc/?username=tranguv&color=brightgreen)
 
 <br/>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=tranguv&theme=blueberry&show_icons=true"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=tranguv&show_icons=true" />
-</picture>
+<a href="https://github.com/tranguv/README.md">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=tranguv&theme=blueberry&show_icons=true"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=tranguv&show_icons=true" />
+  </picture>
+</a>
+<a href="https://github.com/tranguv/README.md">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tranguv&layout=compact)
+</a>
