@@ -17,5 +17,9 @@
 <div display="grid'><a href="https://www.linkedin.com/in/trang-vu-a44713210/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedln
  width="40" height="40"></a></div>
 
+<br/>
+
 ![](https://komarev.com/ghpvc/?username=tranguv&color=brightgreen)
 
+<br/>
+![Trang's GitHub stats](https://github-readme-stats.vercel.app/api?username=tranguv&theme=aura&show_icons=true)
