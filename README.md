@@ -22,4 +22,9 @@
 ![](https://komarev.com/ghpvc/?username=tranguv&color=brightgreen)
 
 <br/>
-![Trang's GitHub stats](https://github-readme-stats.vercel.app/api?username=tranguv&theme=aura&show_icons=true)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=tranguv&theme=blueberry&show_icons=true"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tranguv&show_icons=true" />
+</picture>
