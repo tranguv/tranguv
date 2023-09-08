@@ -31,5 +31,4 @@
   </picture>
 </a>
 <a href="https://github.com/tranguv/README.md">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tranguv&layout=compact)
 </a>
