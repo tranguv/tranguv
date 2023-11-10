@@ -1,6 +1,6 @@
 <h1>Hi there 👋</h1>
 <h2>About me</h2>
-<p>I'm Trang, a second year CS student @ York University</p>
+<p>I'm Trang, a third year CS student @ York University</p>
 <p>Check out my portfolio here <a href="https://trangvu.netlify.app/">https://trangvu.netlify.app/</a></p>
 
 <br/>
