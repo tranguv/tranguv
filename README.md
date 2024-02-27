@@ -49,7 +49,7 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Passionate about software engineering and cyber security<br/><br/>
+ ❤️ &emsp; Passionate about software engineering and currently learn Docker<br/><br/>
  📧 &emsp; Check out my portfolio web [here](https://trangvu.netlify.app/)<br/><br/>
  💬 &emsp; Ask me about anything [here](https://www.linkedin.com/in/tranguv/)
 
