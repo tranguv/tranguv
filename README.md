@@ -27,7 +27,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a full stack web application developer and a cyber security passionate </b> 」
+    「 I am a full stack web application developer </b> 」
   </samp>
 </p>
 
@@ -43,7 +43,10 @@
  <img src="https://i.pinimg.com/originals/48/f0/85/48f08597f57fff39e981cf8ee92d53d2.gif" />
 </p>
 <!-- About Section -->
- # About me
+<div display='flex'>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+  <p>A little more about me...  </p>
+</div>
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
@@ -80,13 +83,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
-
-## Top Project -
-[![Bunny Lover - Finane App](https://github-readme-stats.vercel.app/api/pin/?username=tranguv&repo=finance_app&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/tranguv/finance_app)
-[![NutriHealth](https://github-readme-stats.vercel.app/api/pin/?username=tranguv&repo=Nutrient-App&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/tranguv/Nutrient-App)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=tranguv&repo=Github-User-Finder&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/tranguv/Github-User-Finder)
-[![Memory Matching Game](https://github-readme-stats.vercel.app/api/pin/?username=tranguv&repo=Memory-Game&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/tranguv/Memory-Game)
-
 <p align="left">
   <a href="https://github.com/tranguv?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
