@@ -13,7 +13,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 A CS student @ YorkU and an incoming SWE intern at Shopify </b> 」
+    「 SWE at Shopify </b> 」
   </samp>
 </p>
 
